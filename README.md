@@ -5,14 +5,8 @@ This project implements an LSTM-based model to classify species in the Iris data
 # Installation Instructions:
 
 1) Install Python and necessary libraries.
-
 pip install numpy pandas keras
-python iris_lstm_classification.py
-
-
 2) Clone the repository and navigate to the project directory:
-
-
 git clone [repository-url]
 cd [project-folder]
 
